@@ -1,0 +1,9 @@
+actual,predicted,is_correct
+Severe,Moderate,False
+Severe,Moderate,False
+Moderate,Mild,False
+Severe,Moderate,False
+Moderate,Mild,False
+Mild,Moderate,False
+Mild,Moderate,False
+Moderate,Severe,False

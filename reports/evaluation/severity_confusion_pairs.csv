@@ -1,0 +1,5 @@
+actual,predicted,count
+Severe,Moderate,3
+Mild,Moderate,2
+Moderate,Mild,2
+Moderate,Severe,1

@@ -1,0 +1,5 @@
+actual,predicted,is_correct
+Anxiety,Burnout,False
+Burnout,Anxiety,False
+Depression,Burnout,False
+Burnout,Anxiety,False

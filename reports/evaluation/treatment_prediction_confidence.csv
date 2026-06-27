@@ -1,0 +1,101 @@
+actual,predicted,is_correct,prediction_confidence
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.5676146068246656
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.9581606947372759
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.9873231679389768
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.8554227263472316
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.7752226727496956
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.4713925365223844
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.5894679960702635
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.9801446256283446
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.984849897131319
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.7145856709716493
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.9329820021077145
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.9010109306176242
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",False,0.5207803898634379
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.9367510357450451
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.940124414814089
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.9564372142495876
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.9356150521413749
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.9943483814132225
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.7011479695415052
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.7583872170351494
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.9655627173926198
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.9847393263274279
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.7992042111733778
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.9093286066635824
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.9848573341973789
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.8309941821198237
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.9893357949393955
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.8065032199585315
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.9573633729232885
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.8429203719376356
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",False,0.4449680807463979
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.9014882534255991
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.8734630536024146
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.9642422119825069
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.8932963449388946
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.9907636921765852
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.7609904714802755
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.9871706670895655
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.677460983482385
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.874451564549528
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.6638307689507646
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.9943545603419703
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.8246262928383368
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.9689118826547325
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.9478204223130926
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.9753613321348249
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.9365220297282348
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.813023394475031
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.9539985127895758
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Rest, work-life balance improvement, therapy, reduce workload, meditation",False,0.7626810495061784
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.85147670774616
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.8752538767011365
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.8865538685528453
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.9457457419874669
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.989672441030592
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.8873649008959092
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.9939059076177609
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.9839088218207998
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.7117090737538938
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.9825732248715726
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.5974268069549937
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.9191870122531696
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.9682067659752004
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.9332254997573106
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Rest, work-life balance improvement, therapy, reduce workload, meditation",False,0.5220198412234649
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.7857608598311443
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.9013493797563433
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.9613970786831832
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.9531730059142898
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.9352874406520656
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.9238277005701716
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.5779458829725685
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.7315069241534029
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.9654445074119278
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.8012456434500121
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.9944198373389898
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.9271117057353592
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.9894761082626399
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.9808821815602211
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.937969680554561
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.9506855702093313
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.9006156469541838
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.8468114897753847
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.9967130113999992
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.9761643120069377
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.8998117699402131
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.8983504497019801
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.6100668925695834
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.9843076735722229
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.9023118494605759
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.6499639978354126
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.9567449953620089
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.7298348717407354
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",True,0.9940175054109226
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.8137319956910746
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation",True,0.8224590379781737
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.5264639417804275
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.8932221499881118
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",True,0.8925434403826225
+No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise,True,0.9197622487612817

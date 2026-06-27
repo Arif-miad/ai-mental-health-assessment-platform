@@ -1,0 +1,4 @@
+actual,total_samples,wrong_predictions,correct_predictions,error_rate
+Mild,48,2,46,0.041666666666666664
+Moderate,46,3,43,0.06521739130434782
+Severe,6,3,3,0.5

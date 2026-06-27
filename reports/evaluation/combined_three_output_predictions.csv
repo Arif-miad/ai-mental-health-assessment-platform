@@ -1,0 +1,101 @@
+condition_actual,condition_predicted,severity_actual,severity_predicted,treatment_actual,treatment_predicted
+Normal,Normal,Moderate,Moderate,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Burnout,Burnout,Moderate,Moderate,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Burnout,Burnout,Mild,Mild,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Depression,Depression,Moderate,Moderate,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Depression,Depression,Mild,Mild,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Normal,Normal,Moderate,Moderate,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Depression,Depression,Mild,Mild,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Burnout,Burnout,Moderate,Moderate,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Burnout,Burnout,Mild,Mild,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Anxiety,Anxiety,Severe,Severe,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Burnout,Burnout,Mild,Mild,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Anxiety,Anxiety,Mild,Mild,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Normal,Normal,Moderate,Moderate,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Normal,Normal,Moderate,Moderate,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Normal,Normal,Mild,Mild,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Normal,Normal,Moderate,Moderate,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Normal,Normal,Moderate,Moderate,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Depression,Depression,Mild,Mild,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Normal,Normal,Mild,Mild,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Anxiety,Anxiety,Moderate,Moderate,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Normal,Normal,Moderate,Moderate,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Depression,Depression,Severe,Severe,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Normal,Normal,Mild,Mild,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Burnout,Burnout,Severe,Moderate,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Burnout,Burnout,Moderate,Moderate,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Anxiety,Anxiety,Mild,Mild,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Depression,Depression,Mild,Mild,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Anxiety,Anxiety,Mild,Mild,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Burnout,Burnout,Mild,Mild,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Anxiety,Anxiety,Moderate,Moderate,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Normal,Normal,Mild,Mild,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Normal,Normal,Mild,Mild,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Depression,Depression,Moderate,Moderate,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Normal,Normal,Moderate,Moderate,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Anxiety,Anxiety,Mild,Mild,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Burnout,Burnout,Moderate,Moderate,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Normal,Normal,Mild,Mild,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Burnout,Burnout,Mild,Mild,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Anxiety,Anxiety,Mild,Mild,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Normal,Normal,Mild,Mild,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Normal,Normal,Mild,Mild,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Burnout,Burnout,Moderate,Moderate,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Burnout,Burnout,Mild,Mild,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Depression,Depression,Mild,Mild,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Burnout,Burnout,Moderate,Moderate,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Burnout,Burnout,Moderate,Moderate,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Depression,Depression,Moderate,Moderate,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Anxiety,Anxiety,Mild,Mild,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Depression,Depression,Mild,Mild,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Anxiety,Burnout,Mild,Mild,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Burnout,Burnout,Moderate,Moderate,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Anxiety,Anxiety,Moderate,Moderate,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Anxiety,Anxiety,Severe,Moderate,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Normal,Normal,Mild,Mild,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Depression,Depression,Moderate,Moderate,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Depression,Depression,Mild,Mild,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Burnout,Burnout,Moderate,Moderate,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Burnout,Burnout,Mild,Mild,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Normal,Normal,Moderate,Moderate,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Burnout,Anxiety,Mild,Mild,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Depression,Depression,Moderate,Mild,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Anxiety,Anxiety,Moderate,Moderate,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Depression,Depression,Moderate,Moderate,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Anxiety,Anxiety,Mild,Mild,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Depression,Burnout,Moderate,Moderate,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Anxiety,Anxiety,Moderate,Moderate,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Normal,Normal,Moderate,Moderate,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Depression,Depression,Mild,Mild,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Anxiety,Anxiety,Severe,Moderate,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Depression,Depression,Mild,Mild,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Normal,Normal,Mild,Mild,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Anxiety,Anxiety,Mild,Mild,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Anxiety,Anxiety,Moderate,Moderate,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Depression,Depression,Mild,Mild,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Burnout,Burnout,Moderate,Moderate,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Depression,Depression,Moderate,Moderate,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Normal,Normal,Moderate,Moderate,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Depression,Depression,Mild,Mild,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Depression,Depression,Moderate,Moderate,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Depression,Depression,Moderate,Moderate,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Burnout,Anxiety,Mild,Mild,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Depression,Depression,Mild,Mild,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Anxiety,Anxiety,Moderate,Mild,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Burnout,Burnout,Mild,Moderate,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Burnout,Burnout,Moderate,Moderate,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Normal,Normal,Moderate,Moderate,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Burnout,Burnout,Moderate,Moderate,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Anxiety,Anxiety,Moderate,Moderate,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Burnout,Burnout,Moderate,Moderate,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise
+Normal,Normal,Mild,Mild,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Anxiety,Anxiety,Moderate,Moderate,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Depression,Depression,Mild,Mild,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Anxiety,Anxiety,Mild,Moderate,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Depression,Depression,Mild,Mild,"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement"
+Normal,Normal,Moderate,Moderate,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Normal,Normal,Mild,Mild,"Rest, work-life balance improvement, therapy, reduce workload, meditation","Rest, work-life balance improvement, therapy, reduce workload, meditation"
+Anxiety,Anxiety,Mild,Mild,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Anxiety,Anxiety,Mild,Mild,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Anxiety,Anxiety,Moderate,Severe,"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene"
+Burnout,Burnout,Severe,Severe,No treatment needed; maintain healthy lifestyle and regular exercise,No treatment needed; maintain healthy lifestyle and regular exercise

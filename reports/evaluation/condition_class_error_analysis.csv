@@ -1,0 +1,5 @@
+actual,total_samples,wrong_predictions,correct_predictions,error_rate
+Anxiety,25,1,24,0.04
+Burnout,25,2,23,0.08
+Depression,25,1,24,0.04
+Normal,25,0,25,0.0

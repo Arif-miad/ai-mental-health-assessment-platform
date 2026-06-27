@@ -1,0 +1,5 @@
+actual,total_samples,wrong_predictions,correct_predictions,error_rate
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",25,1,24,0.04
+No treatment needed; maintain healthy lifestyle and regular exercise,25,0,25,0.0
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement",25,1,24,0.04
+"Rest, work-life balance improvement, therapy, reduce workload, meditation",25,2,23,0.08

@@ -1,0 +1,20 @@
+feature,importance
+sleep_hours,0.2674947273641325
+social_media_hours,0.20280695922065733
+anxiety_score,0.18682165217247224
+depression_score,0.18526560017349245
+mood_score,0.17355118491556631
+academic_work_pressure,0.17097861664735298
+social_support,0.13717446243225478
+stress_level,0.1367974790676421
+concentration_level,0.1362639865478243
+work_life_balance,0.1285653326807776
+physical_activity_days,0.1250245061511653
+sleep_quality,0.10865326769023348
+age,0.09164012673293152
+occupation_Student,0.022916678858397703
+gender_Non-binary,0.022893543040412252
+occupation_Working Professional,0.017128102052843912
+gender_Female,0.01592199573399175
+gender_Male,0.0126972859097038
+occupation_Both (Part-time work + Study),0.00950994348843737

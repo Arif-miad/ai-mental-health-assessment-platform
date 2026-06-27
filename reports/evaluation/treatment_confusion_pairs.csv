@@ -1,0 +1,4 @@
+actual,predicted,count
+"Rest, work-life balance improvement, therapy, reduce workload, meditation","Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene",2
+"Cognitive Behavioral Therapy (CBT), mindfulness, reduce caffeine, sleep hygiene","Rest, work-life balance improvement, therapy, reduce workload, meditation",1
+"Psychotherapy, antidepressants (SSRIs), regular exercise, social engagement","Rest, work-life balance improvement, therapy, reduce workload, meditation",1
