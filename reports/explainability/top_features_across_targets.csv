@@ -1,0 +1,31 @@
+target,task,rank,feature,importance,source
+condition,Mental Health Condition,1,sleep_hours,0.11256530321924174,permutation_importance
+condition,Mental Health Condition,2,anxiety_score,0.06623674198280884,permutation_importance
+condition,Mental Health Condition,3,social_media_hours,0.06524245438359046,permutation_importance
+condition,Mental Health Condition,4,mood_score,0.03783079102468283,permutation_importance
+condition,Mental Health Condition,5,academic_work_pressure,0.036673743547741125,permutation_importance
+condition,Mental Health Condition,6,concentration_level,0.03471186616881886,permutation_importance
+condition,Mental Health Condition,7,depression_score,0.027876318674680246,permutation_importance
+condition,Mental Health Condition,8,stress_level,0.02728407796700245,permutation_importance
+condition,Mental Health Condition,9,social_support,0.01875359055087933,permutation_importance
+condition,Mental Health Condition,10,work_life_balance,0.01392761887048003,permutation_importance
+severity,Severity Level,1,stress_level,0.1858755270325188,permutation_importance
+severity,Severity Level,2,academic_work_pressure,0.16817185913938207,permutation_importance
+severity,Severity Level,3,anxiety_score,0.14808802780612149,permutation_importance
+severity,Severity Level,4,depression_score,0.12708370047226206,permutation_importance
+severity,Severity Level,5,gender_Non-binary,0.020165098917506397,permutation_importance
+severity,Severity Level,6,work_life_balance,0.01978054094162802,permutation_importance
+severity,Severity Level,7,sleep_hours,0.017955998201799717,permutation_importance
+severity,Severity Level,8,physical_activity_days,0.01314423095237317,permutation_importance
+severity,Severity Level,9,social_support,0.011640280710511541,permutation_importance
+severity,Severity Level,10,gender_Male,0.010082549458753198,permutation_importance
+treatment,Recommended Treatment,1,sleep_hours,0.10191848972717307,permutation_importance
+treatment,Recommended Treatment,2,anxiety_score,0.062323377774710274,permutation_importance
+treatment,Recommended Treatment,3,academic_work_pressure,0.05402551270731839,permutation_importance
+treatment,Recommended Treatment,4,social_media_hours,0.05081858227924616,permutation_importance
+treatment,Recommended Treatment,5,depression_score,0.03586309004388112,permutation_importance
+treatment,Recommended Treatment,6,concentration_level,0.023407556365649552,permutation_importance
+treatment,Recommended Treatment,7,stress_level,0.021793618176227027,permutation_importance
+treatment,Recommended Treatment,8,mood_score,0.019797127169018148,permutation_importance
+treatment,Recommended Treatment,9,work_life_balance,0.018676046552077007,permutation_importance
+treatment,Recommended Treatment,10,social_support,0.012801744497323441,permutation_importance

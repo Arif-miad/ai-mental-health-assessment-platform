@@ -1,0 +1,20 @@
+{
+    "phase": "Phase 5 - Explainable AI",
+    "targets": [
+        "condition",
+        "severity",
+        "treatment"
+    ],
+    "methods": [
+        "Built-in feature importance",
+        "Permutation importance",
+        "SHAP summary plot",
+        "SHAP local explanation",
+        "Partial dependence plots"
+    ],
+    "outputs": {
+        "explainability_dir": "H:\\ai-mental-health-assessment-platform\\reports\\explainability",
+        "figures_dir": "H:\\ai-mental-health-assessment-platform\\reports\\figures"
+    },
+    "note": "This is an educational explainability workflow, not a medical diagnostic explanation."
+}
