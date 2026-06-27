@@ -1,0 +1,4 @@
+Target,Best_Model,Accuracy,Precision_Macro,Recall_Macro,F1_Macro,Precision_Weighted,Recall_Weighted,F1_Weighted,Best_Params
+condition,LogisticRegression,0.96,0.9607692307692308,0.96,0.9601920768307324,0.9607692307692308,0.96,0.9601920768307324,"{'C': 0.01, 'max_iter': 2000, 'solver': 'lbfgs'}"
+severity,LogisticRegression,0.92,0.8680555555555557,0.7977053140096618,0.8244089834515367,0.9170833333333335,0.92,0.9168510638297872,"{'C': 1, 'max_iter': 2000, 'solver': 'lbfgs'}"
+treatment,LogisticRegression,0.96,0.9607692307692308,0.96,0.9601920768307323,0.9607692307692308,0.96,0.9601920768307324,"{'C': 0.1, 'max_iter': 2000, 'solver': 'lbfgs'}"

@@ -1,0 +1,36 @@
+{
+    "project": "AI Mental Health Assessment Platform",
+    "phase": "Phase 3 - Model Training",
+    "targets": {
+        "condition": "mental_health_condition",
+        "severity": "severity",
+        "treatment": "treatment"
+    },
+    "best_baseline_models": {
+        "condition": "Logistic Regression",
+        "severity": "Logistic Regression",
+        "treatment": "Logistic Regression"
+    },
+    "best_parameters": {
+        "condition": {
+            "C": 0.01,
+            "max_iter": 2000,
+            "solver": "lbfgs"
+        },
+        "severity": {
+            "C": 1,
+            "max_iter": 2000,
+            "solver": "lbfgs"
+        },
+        "treatment": {
+            "C": 0.1,
+            "max_iter": 2000,
+            "solver": "lbfgs"
+        }
+    },
+    "saved_model_files": {
+        "condition": "models/condition_best_model.pkl",
+        "severity": "models/severity_best_model.pkl",
+        "treatment": "models/treatment_best_model.pkl"
+    }
+}
