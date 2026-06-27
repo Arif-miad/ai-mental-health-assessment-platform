@@ -1,0 +1,4 @@
+target_project,target_column,train_rows,test_rows,processed_features,target_classes
+condition,mental_health_condition,400,100,19,4
+severity,severity,400,100,19,3
+treatment,treatment,400,100,19,4
